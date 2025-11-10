@@ -1,15 +1,13 @@
 theme = Material Design Colors
 term = xterm-256color
 
-font-family = FiraCode Nerd Font Regular
-font-family-bold = FiraCode Nerd Font Bold
-font-family-italic = FiraCode Nerd Font Italic
-font-family-bold-italic = FiraCode Nerd Font Bold Italic
+font-family = "FiraCode Nerd Font"
+font-family-bold = "FiraCode Nerd Font Bold"
+font-family-italic = "FiraCode Nerd Font Italic"
+font-family-bold-italic = "FiraCode Nerd Font Bold Italic"
 
 font-size = 12
-
-font-feature = calt
-font-feature = liga
+font-feature = +feat +calt +liga +dlig
 
 font-thicken = true
 
